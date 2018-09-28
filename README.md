@@ -2,7 +2,7 @@ Coursera Getting and cleaing data project:
 ============================================
 1. Repository content:
 ----------------------
-- #### `tidy_data.csv` 
+- #### `tidy_data.txt` 
 ##### the required data set.
 - #### `Code book.md`  
 ##### details on the data set and all variables.
