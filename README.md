@@ -48,7 +48,7 @@ Coursera Getting and cleaing data project:
 - ##### Combined the tables for training and testing.
 - ##### Grouped the resulting table by subject first then activity.
 - ##### Calculated means of all variables.
-- ##### Exported a tidy data file as `tidy_data.csv`
+- ##### Exported a tidy data file as `tidy_data.txt`
 
 
 
