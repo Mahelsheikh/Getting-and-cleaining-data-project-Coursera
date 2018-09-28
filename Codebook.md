@@ -55,11 +55,11 @@ of **2 identifiers (subject and activity) and 79 variables**. the total number o
     1. subjects
     2. activity
 - Variables:
-    1.	timebodyacc_mean_x 
-    2.	timebodyacc_mean_y 
-    3.	timebodyacc_mean_z 
-    4.	timebodyacc_std_x 
-    5.	timebodyacc_std_y 
+    1.   timebodyacc_mean_x 
+    2.   timebodyacc_mean_y 
+    3.   timebodyacc_mean_z 
+    4.   timebodyacc_std_x 
+    5.   timebodyacc_std_y 
     6.	timebodyacc_std_z 
     7.	timegravityacc_mean_x 
     8.	timegravityacc_mean_y 
@@ -86,7 +86,7 @@ of **2 identifiers (subject and activity) and 79 variables**. the total number o
     29.	timebodygyrojerk_std_y 
     30.	timebodygyrojerk_std_z 
     31.	timebodyaccmag_mean 
-    32.  timebodyaccmag_std
+    32. timebodyaccmag_std
     33.	timegravityaccmag_mean 
     34.	timegravityaccmag_std 
     35.	timebodyaccjerkmag_mean 
