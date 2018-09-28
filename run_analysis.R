@@ -72,5 +72,5 @@ rm("activity","colrange","featurestbl","requiredfeatures","requiredfeaturesnames
 ## first then activity then summarised all other variables getting the mean for 
 ## each subject and each activity for each subject
 groupedtbl<- combinedtbl %>% group_by(subject,activity) %>% summarise_all(funs(mean))
-## write the tidy data in to tidy_data.csv 
+## write the tidy data in to tidy_data.txt 
 write.table(groupedtbl,"tidy_data.txt",quote = FALSE,row.names = FALSE)
