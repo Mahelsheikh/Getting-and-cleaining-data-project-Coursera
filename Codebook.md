@@ -1,4 +1,4 @@
-Coursera Getting and cleaing data project Code book:
+Coursera Getting and cleaning data project Code book:
 ====================================================
 #### This is a Code book to describe the `tidy_data.txt` and how it was transformed from the given data 
 ## 1. Original data:
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 -------------
 The transformed final data is represented in the `tidy_data.csv` file which is 
 formed of 81 columns that contains the **means** of mean values and standard deviation 
-values of each valriable **per human subject and activity type**. Total **180 reading**
+values of each variable **per human subject and activity type**. Total **180 reading**
 of **2 identifiers (subject and activity) and 79 variables**. the total number of 
 **subjects who performed the test is 30**. they are:
 
