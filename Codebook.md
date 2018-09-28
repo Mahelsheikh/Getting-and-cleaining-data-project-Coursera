@@ -1,7 +1,7 @@
 Coursera Getting and cleaing data project Code book:
 ====================================================
 #### This is a Code book to describe the `tidy_data.txt` and how it was transformed from the given data 
-##1. Original data:
+## 1. Original data:
 -----------------
 #### The original data and how it was colleced can be found in: [Click here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
 ________________________________________________________________________________
@@ -43,7 +43,7 @@ The original data file is provided as a zip folder which contains:
 
 ________________________________________________________________________________
 
-##2. Tidy data:
+## 2. Tidy data:
 -------------
 The transformed final data is represented in the `tidy_data.csv` file which is 
 formed of 81 columns that contains the **means** of mean values and standard deviation 
@@ -137,7 +137,7 @@ of **2 identifiers (subject and activity) and 79 variables**. the total number o
 
 ________________________________________________________________________________
 
-##3. Transformation:
+## 3. Transformation:
 ------------------
 - ##### Downloaded the dataset zip file.
 - ##### Unzipped the file
