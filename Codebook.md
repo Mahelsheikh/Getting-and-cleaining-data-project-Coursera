@@ -51,10 +51,10 @@ values of each valriable **per human subject and activity type**. Total **180 re
 of **2 identifiers (subject and activity) and 79 variables**. the total number of 
 **subjects who performed the test is 30**. they are:
 
-Identifiers:
+- Identifiers:
     1. subjects
     2. activity
-Variables:
+- Variables:
     1.	timebodyacc_mean_x 
     2.	timebodyacc_mean_y 
     3.	timebodyacc_mean_z 
