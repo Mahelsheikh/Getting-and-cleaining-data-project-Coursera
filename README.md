@@ -1,6 +1,6 @@
 Coursera Getting and cleaing data project:
 ============================================
-1.## Repository content:
+##1. Repository content:
 ----------------------
 - #### `tidy_data.txt` 
 ##### the required data set.
@@ -11,7 +11,7 @@ Coursera Getting and cleaing data project:
 - #### `run_analysis.R` 
 #### the R script file containing who the data was transformed to tidy_data.csv
 
-2.## The study:
+##2.The study:
 -------------
 ### More on the study and data sources can be found in [Click here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
 ### Data Set Information:
@@ -33,7 +33,7 @@ Coursera Getting and cleaing data project:
 - ##### Its activity label. 
 - ##### An identifier of the subject who carried out the experiment.
 
-3.## Data transformation:
+##3.Data transformation:
 -----------------------
 - ##### Downloaded the dataset zip file.
 - ##### Unzipped the file
