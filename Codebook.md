@@ -1,6 +1,6 @@
 Coursera Getting and cleaing data project Code book:
 ====================================================
-#### This is a Code book to describe the `tidy_data.csv` and how it was transformed from the given data 
+#### This is a Code book to describe the `tidy_data.txt` and how it was transformed from the given data 
 1. Original data:
 -----------------
 #### The original data and how it was colleced can be found in: [Click here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
