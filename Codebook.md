@@ -148,7 +148,7 @@ ________________________________________________________________________________
 - ##### Changed the activity values from y_test.txt and y.train.txt to the activity names.
 - ##### Selected the required columns with the help of features table.
 - ##### Cleaned the columns names from features file 
-      - Getting the names of the columns fixed properly (replaced "t" with "time"
+       Getting the names of the columns fixed properly (replaced "t" with "time"
       , "f" with "frequency" , "-" with blank repalced typos , removed "\\()"
       ,changed all letters to lower case letters and replaced all blansk with "_")
 - ##### Created two tables for test and train with subjects and activity names. 
